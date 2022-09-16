@@ -1,0 +1,24 @@
+body {
+  background-color: #DEB887;
+}
+
+hr {
+  border: 3px dashed #800000;
+  border-radius: 10px;
+}
+
+
+h1 {
+  color: #800000;
+}
+
+
+h3 {
+  color: #800000;
+}
+
+
+.goran {
+  width: 220px;
+  height: 220px;
+}
